@@ -22,6 +22,9 @@ I recently started using Gradio to build interactive demos of my machine learnin
 
 Feel free to check out these projects and let me know what you think! I am always looking for feedback and ways to improve my machine learning projects.
 
+### 📈 Stats
+[![Devashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devashish-bhake&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Thanks for stopping by!!! 🙏
 
 
