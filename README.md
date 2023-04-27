@@ -13,7 +13,7 @@ If you have any questions about my projects or my experience with machine learni
 
 ### 📫 How to reach me
 If you'd like to get in touch with me, feel free to reach out via
->linkedin: https://www.linkedin.com/in/devashish-bhake/
+- linkedin: https://www.linkedin.com/in/devashish-bhake/
 
 ### 🚀 My Gradio Projects
 I recently started using Gradio to build interactive demos of my machine learning projects. Here are a few of my recent Gradio projects:
