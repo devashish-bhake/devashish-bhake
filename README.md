@@ -17,8 +17,8 @@ If you'd like to get in touch with me, feel free to reach out via
 
 ### 🚀 My Gradio Projects
 I recently started using Gradio to build interactive demos of my machine learning projects. Here are a few of my recent Gradio projects:
->[project 1]
->[project 2]
+-[Face Mask Detection System](https://huggingface.co/spaces/DevashishBhake/Face_Mask_Detection) 
+-[Speech Emotion Recognition](https://huggingface.co/spaces/DevashishBhake/SERModel)
 
 Feel free to check out these projects and let me know what you think! I am always looking for feedback and ways to improve my machine learning projects.
 
