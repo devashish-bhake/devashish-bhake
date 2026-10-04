@@ -53,6 +53,7 @@ Currently, I work on **data platforms, backend APIs, and AI/LLM-powered workflow
 * 💼 [LinkedIn](https://www.linkedin.com/in/devashish-bhake/)
 * 📧 **[devrajbhake@gmail.com](mailto:devashishbhake104@gmail.com)**
 
+<!-- 
 ---
 
 ### 📊 GitHub Stats
@@ -62,6 +63,7 @@ Currently, I work on **data platforms, backend APIs, and AI/LLM-powered workflow
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devashish-bhake\&layout=compact)](https://github.com/devashish-bhake)
 
 ---
+-->
 
 Thanks for stopping by! 🚀
 
