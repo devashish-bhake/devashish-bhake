@@ -1,26 +1,70 @@
 
-# Hi There, I'm Devashish Bhake
-I'm a recent graduate with a passion for machine learning. I've completed several projects and courses related to machine learning, and I'm excited to continue learning and building my skills in this field.
+# Hi, I'm Devashish Bhake 👋
 
-### 🔭 What I'm currently working on
-I'm currently working on building my protfolio of machine learning projects/ I'm exploring different topics and techniques, and I'm using Python, Tensorflow, PyTorch and YOLO frameworks to build and deply machine learning models. I also have worked with NLP frameworks like SpaCy and fine-tuned industry leading language models like gpt-2 and T5.
+**Software Engineer | Backend & Data Engineering | AI/ML**
 
-### 🌱 What I'm currently learning
-I'm always learning and staying up-to-date with the latest trends and technologies in machine learning. Right now, I'm focused on learning more and more about YOLOv8 which is the newest framework released the YOLOv5's creators Ultralytic, and am excited to see how I can use and apply it on my future projects.
+I build production-oriented software, data pipelines, and AI-powered applications. My experience spans backend development, data engineering, machine learning, and LLM-based workflows, with a focus on solving real-world problems and building reliable systems.
 
-### 💬 Ask me about
-If you have any questions about my projects or my experience with machine learning, I'm always happy to chat and share what I've learnt so far.
+Currently, I work on **data platforms, backend APIs, and AI/LLM-powered workflows** in the life-sciences domain.
 
-### 📫 How to reach me
-If you'd like to get in touch with me, feel free to reach out via
-- linkedin: https://www.linkedin.com/in/devashish-bhake/
+### 🛠️ What I Work With
 
-### 🚀 My Gradio Projects
-I recently started using Gradio to build interactive demos of my machine learning projects. Here are a few of my recent Gradio projects:
-- [Face Mask Detection System](https://huggingface.co/spaces/DevashishBhake/Face_Mask_Detection) 
-- [Speech Emotion Recognition](https://huggingface.co/spaces/DevashishBhake/SERModel)
+**Languages:** Python, SQL, Java, C++
 
-Feel free to check out these projects and let me know what you think! I am always looking for feedback and ways to improve my machine learning projects.
+**Backend & Data:** Django, REST APIs, PostgreSQL, Amazon Redshift, PySpark, Databricks, Apache Airflow, AWS
+
+**AI/ML:** PyTorch, TensorFlow, Hugging Face, NLP, Computer Vision, LLMs
+
+**Tools:** Git, GitHub, Linux
+
+### 🚀 Featured Projects
+
+> A selection of projects I've built across different stages of my engineering journey.
+
+* **Resume Parser & Ranking — 2022**
+  Built an AI-powered resume analysis system using YOLOv5 and DistilBERT for document section detection, classification, and candidate ranking. The project later became the basis for a published research paper.
+
+* **Industrial Safety Detection — 2023**
+  Developed a YOLOv8-based computer vision system for real-time detection of industrial safety hazards, including PPE violations, machinery, vehicles, and workers.
+
+* **Carbon MRV System — 2023–24**
+  Developed a deep-learning-based Monitoring, Reporting, and Verification (MRV) system for carbon offsetting, combining vegetation detection, tree-age estimation, species classification, and carbon sequestration estimation.
+
+* **RAG-based AI Chatbot — 2024**
+  Built a retrieval-augmented generation chatbot using LLMs and vector search for contextual question answering, with a Streamlit interface and conversational chat history.
+
+### 🏆 Achievements
+
+* 🥇 **Winner — IET MPSTME Hack N Code 5.0**
+* 🥈 **First Runner-up — Mastek Project Deep Blue, Season 7**
+* 📚 **Published researcher** in *Multimedia Tools and Applications* and *Journal of Green Building*
+* 🎓 **B.Tech (Hons.) Computer Engineering, AI & ML — 9.5/10 CGPA**
+
+### 📚 Publications
+
+**Towards Smarter Hiring: Resume Parsing and Ranking with YOLOv5 and DistilBERT**
+*Multimedia Tools and Applications, Springer — 2024*
+
+**Monitoring, Reporting, and Verification (MRV) for Carbon Offsetting Using Deep Learning Techniques**
+*Journal of Green Building — 2025*
+
+### 🔗 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/devashish-bhake/)
+* 📧 **[devrajbhake@gmail.com](mailto:devashishbhake104@gmail.com)**
+
+---
+
+### 📊 GitHub Stats
+
+[![Devashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devashish-bhake\&show_icons=true\&count_private=true)](https://github.com/devashish-bhake)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devashish-bhake\&layout=compact)](https://github.com/devashish-bhake)
+
+---
+
+Thanks for stopping by! 🚀
+
 
 ### 📈 Stats
 [![Devashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devashish-bhake&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
