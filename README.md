@@ -66,11 +66,4 @@ Currently, I work on **data platforms, backend APIs, and AI/LLM-powered workflow
 Thanks for stopping by! 🚀
 
 
-### 📈 Stats
-[![Devashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devashish-bhake&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devashish-bhake)](https://github.com/anuraghazra/github-readme-stats)
-
-### Thanks for stopping by!!! 🙏
-
-
 
